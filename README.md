@@ -1,0 +1,1 @@
+# gosecure-odoo-automation
